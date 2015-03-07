@@ -1,4 +1,5 @@
-
+# Author: Rui Wang
+# Date: Mar.2014-May.2014
 ##
 # Clear up all data in workspace
 ##
